@@ -1,5 +1,4 @@
-### Hi there 👋
-
+In a frightening liminal space between states of being. Not quite dead, not quite alive. It's similar to a constant state of sleep paralysis!
 <!--
 **10xJSChad/10xJSChad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
