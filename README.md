@@ -1,9 +1,9 @@
 
-<center>
+<p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10xJsChad&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</p>
 <!--
 **10xJSChad/10xJSChad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
