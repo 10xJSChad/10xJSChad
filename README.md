@@ -1,8 +1,7 @@
 <h3 align="center">Rojo / 10xJSChad</h3>
-<h4 align="center">I'm a Software and Backend web development enthusiast <br> 
-My focus is currently on data structures and algorithms <br>
+<h4 align="center">I'm a Software development enthusiast <br> 
   
-When I'm not working on a project, I do Leetcode, my solutions can be found [here](https://github.com/10xJSChad/Casual-Leetcoding)
+I occasionally do Leetcode, my solutions can be found [here](https://github.com/10xJSChad/Casual-Leetcoding)
 </h4>
 
 <p align="center">
