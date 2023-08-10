@@ -14,3 +14,7 @@
 <p align="center">
   <a href="https://github.com/10xJSChad/ratcp">ratcp</a> - rsync if it could only recursively copy directories, and had no versatility whatsoever.
 </p>
+
+<p align="center">
+  <a href="https://github.com/10xJSChad/cnake">cnake</a> - snake game.
+</p>
