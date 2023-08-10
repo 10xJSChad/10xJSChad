@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Here's some stuff I made that I find mildly humorous, these are all dumb lil' projects made in some hours at most, for fun :)
+  Here's some stuff I made that I find mildly amusing, these are all dumb lil' projects made in some hours at most, for fun :)
 </p>
 
 ------
