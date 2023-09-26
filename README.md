@@ -42,3 +42,7 @@
 <p align="center">
   <a href="https://github.com/10xJSChad/cnake">cnake</a> - snake game.
 </p>
+
+<p align="center">
+  <a href="https://github.com/10xJSChad/Teordle">Teordle</a> - command-line wordle.
+</p>
