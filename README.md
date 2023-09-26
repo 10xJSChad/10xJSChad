@@ -5,9 +5,29 @@
   <a href="https://github.com/10xJSChad/Casual-Leetcoding">I occasionally do LeetCode, my solutions can be found here
 </p>
 
+<br>
+<br>
+
+<h3 align="center">
+  Projects I actually like
+</h3>
+
+------
+
 <p align="center">
-  Here's some stuff I made that I find mildly amusing, these are all dumb lil' projects made in some hours at most, for fun :)
+  <a href="https://github.com/10xJSChad/climenu">climenu</a> - A little application for creating cli menus, nice for organizing shortcuts.
 </p>
+
+<p align="center">
+  <a href="https://github.com/10xJSChad/svgshift">svgshift</a> - Quick program to shift colors in svg files, created this to fix up my desktop theme a little since GIMP was a bit confusing.
+</p>
+
+<br>
+<br>
+
+<h3 align="center">
+  Some stuff I made that I find mildly amusing, all made for fun, no real use case.
+</h3>
 
 ------
 
