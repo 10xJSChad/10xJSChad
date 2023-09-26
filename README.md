@@ -22,6 +22,10 @@
   <a href="https://github.com/10xJSChad/svgshift">svgshift</a> - Quick program to shift colors in svg files, created this to fix up my desktop theme a little since GIMP was a bit confusing.
 </p>
 
+<p align="center">
+  <a href="https://github.com/10xJSChad/gnomefavs">gnomefavs</a> - cli tool for creating GNOME task bar presets, kind of like focus modes, but for the task bar.
+</p>
+
 <br>
 <br>
 
