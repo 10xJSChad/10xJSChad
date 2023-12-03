@@ -23,7 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/10xJSChad/gnomefavs">gnomefavs</a> - cli tool for creating GNOME task bar presets, kind of like focus modes, but for the task bar.
+  <a href="https://github.com/10xJSChad/gnomefavs">gnomefavs</a> - cli utility for creating GNOME task bar presets, kind of like focus modes, but for the task bar.
+</p>
+
+<p align="center">
+  <a href="https://github.com/10xJSChad/permutations">permutations</a> - really simple cli utility that generates permutations, I use this to bruteforce PAYDAY 3 keypads.
 </p>
 
 <br>
