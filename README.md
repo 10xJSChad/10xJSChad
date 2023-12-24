@@ -15,7 +15,7 @@
 ------
 
 <p align="center">
-  <a href="https://github.com/10xJSChad/climenu">climenu</a> - A little application for creating cli menus, nice for organizing shortcuts.
+  <a href="https://github.com/10xJSChad/climenu">climenu</a> - A little application for creating tui menus, nice for organizing shortcuts.
 </p>
 
 <p align="center">
